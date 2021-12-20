@@ -1,0 +1,45 @@
+span{
+    background: linear-gradient(to right, #9df80b 0%, #30fafa 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+}
+h6{
+    color: rgb(167, 168, 168);
+}
+button{
+    color: white;
+    border: none;
+    background: linear-gradient(to right, rgb(182, 87, 230), rgb(253, 66, 66));
+    border-radius: 50px;
+    height: 13%;
+}
+.row{
+    padding-left: 15%;
+    padding-right: 8%;
+
+}
+body{
+    padding-top: 13%;
+}
+.card{
+    border: none;
+    box-shadow: 1px 2px 4px 3px rgb(243, 241, 241);
+    padding-bottom: 10%;
+}
+.card-title{
+    color: rgb(156, 156, 236);
+}
+li{
+    color: rgb(172, 166, 166);
+}
+#second{
+    color: rgb(77, 250, 77);
+
+}
+#first{
+    background: linear-gradient(to right, #f342ea 0%, #6bdddd 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+}
